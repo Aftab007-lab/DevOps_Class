@@ -1,2 +1,0 @@
-Hello this is new file
-I want to commit this
